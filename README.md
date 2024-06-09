@@ -5,6 +5,15 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 1. Experience Flask (empty/full): When empty, use to fill 100xp points. When full, use to gain 100xp points. MUST HAVE over 100xp point to fill a bottle up.
 
 ## 👕 Armor / Tools / Weapons / Baubles:
+### Armor Sets will grant bonus on every piece, and per number of pieces.
+#### Excavator: Each piece grants 5% Mining Speed.
+
+Set bonuses:
+
+1. Mining Speed: +15%, Extra Ore Chance: +25%, reduced damage from Stalagmite and Stalgtites.
+2. Mining no longer consumes hunger. Immunity to Mining Fatigue. (Iffy)
+3. Mining Pickaxable blocks has a 25% Chance to grant increasing Haste. Max 4, for 20 seconds.
+4. Permanent Night Vision, mining ores grants extra exp based on Experience Multiplier. Does not work with Silk Touch. Extra Ore Chance: +25%
 
 ## 💭 Status Effects:
 
@@ -22,7 +31,7 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 ### Note: Rare enchantments will be Purple, and Epic will be Golden.
 ## 🦾 Attributes:
 1. Experience Multiplier
-2. Bonus Ore Chance
+2. Extra Ore Chance
 3. Special Loot Chance
 4. Saturation Multiplier
 5. Evasion
