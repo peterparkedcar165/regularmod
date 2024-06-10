@@ -49,5 +49,5 @@ Set bonuses:
 3. Hostile mobs are the rest, mobs that are either hostile, neutral, or offer something important upon killing them. Ex: farm animals, zombies, creepers, skeletons, etc.
 4. All mobs will spawn with increased health (x2).
 5. Hostile mobs have even further increased health (x1.5), attack damage (x1.5-2), armor (+4 ~ 8), and movement speed (+5~10%).
-6. When hostile mobs die, their exp dropped is increased based on the player's Experience Multiplier attribute.
+6. When hostile mobs die, their exp dropped is increased based on their health and the killer player's Experience Multiplier attribute.
 7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
