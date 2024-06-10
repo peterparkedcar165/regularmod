@@ -21,6 +21,7 @@ Set bonuses:
 4. Tilling soil instantly moisturizes it. Contain a Water Tank that slowly fills up when you are wet or touching water, then walking on soil moisturizes the soil at the cost of 1 unit, Max 24. Extra Crop Chance: +50%. Saturation Multiplier: +25%.
 
 ## 💭 Status Effects:
+1. Infested: Given to Zombie-type mobs upon spawning. When they die, they have a 10% chance to spawn 3-5 extra zombies of the same type.
 
 ## 📖 Enchantments:
 1. Quick Reflex (Helmet): +7.5% Evasion per level, Max 5. Common.
