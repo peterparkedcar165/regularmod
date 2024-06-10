@@ -6,14 +6,19 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 
 ## 👕 Armor / Tools / Weapons / Baubles:
 ### Armor Sets will grant bonus on every piece, and per number of pieces.
-#### Excavator: Each piece grants 5% Mining Speed.
+#### Excavator: Each piece grants 5% Mining Speed with Pickaxes and Shovels.
 
 Set bonuses:
 
-1. Mining Speed: +15%, Extra Ore Chance: +25%, reduced damage from Stalagmite and Stalgtites.
-2. Mining no longer consumes hunger. Immunity to Mining Fatigue. (Iffy)
+2. Mining Speed with Pickaxes and Shovels: +15%, Extra Ore Chance: +25%, reduced damage from Stalagmite and Stalagtites. Mining no longer consumes hunger.
 3. Mining Pickaxable blocks has a 25% Chance to grant increasing Haste. Max 4, for 20 seconds.
-4. Permanent Night Vision, mining ores grants extra exp based on Experience Multiplier. Does not work with Silk Touch. Extra Ore Chance: +25%
+4. Permanent Night Vision if not underwater, mining ores grants extra exp based on Experience Multiplier. Does not work with Silk Touch. Extra Ore Chance: +25%
+
+#### 🌿 Agricultor: Each piece grants 5% Mining Speed with Axes and Hoes.
+
+2. Mining Speed with Axes and Hoes: +15%, Extra Crop Chance: +25%. Can rebark trees.
+3. Crafting Bread no longer requires 3 Wheat to make 3 Bread, instead, 1 Wheat can make 1 Bread. At the same time, double the Bread yield. Sticks yield 6 instead of 4.
+4. Tilling soil instantly moisturizes it. Contain a Water Tank that slowly fills up when you are wet or touching water, then walking on soil moisturizes the soil at the cost of 1 unit, Max 24. Extra Crop Chance: +50%. Saturation Multiplier: +25%.
 
 ## 💭 Status Effects:
 
