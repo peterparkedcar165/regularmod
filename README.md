@@ -1,5 +1,5 @@
 # Mild Additions Mod
-This mod aims to add a few things to Minecraft, with the usage of Origins, but without the selection.
+This mod aims to add a few things to Minecraft, with the usage of Origins, but without the selection. At the end, create a sub-category describing all the other mods added to the modpack, with their purpose.
 
 ## ⛏️ Item:
 1. Experience Flask (empty/full): When empty, use to fill 100xp points. When full, use to gain 100xp points. MUST HAVE over 100xp point to fill a bottle up.
