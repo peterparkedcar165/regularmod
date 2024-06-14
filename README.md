@@ -48,6 +48,8 @@ Attacks reduce target's Movement Speed, Attack Speed, Attack Damage, and Arrow D
 +25% Evasion, +25% Stealth.
 #### Charm of Rejuvenation:
 +1 Health every second.
+#### Charm of Immunity:
+Immune to negative status effects.
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
 2. Evasive Haste: Given when successfully Evading an attack. +15% Movement Speed per level.
