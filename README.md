@@ -80,6 +80,6 @@ Set bonuses:
 ###### Strong: Increase Attack Damage by 1.5x and Arrow Damage by 1.5x.
 ###### Leeching: Increase Lifesteal by 50%.
 ###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second.
-###### Crippling: Movement Speed and Attack Speed: -25%.
+###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%.
 
 ###### Upon dying, these mobs drop an increased amount of Experience.
