@@ -59,6 +59,8 @@ Set bonuses:
 6. Stealth
    
 ## ❓ Game Mechanics:
+### Quality of life:
+1. Falling onto soil no longer destroys it.
 ### Difficulty:
 1. Whenever Mobs spawn, they will be divided into two subcategories: Friendly, or Hostile.
 2. Friendly mobs are mobs that have no purpose when killed, and may have a major purpose to players, most being tamable, and some not being tamable. Ex: horses, wolves, dolphins, etc.
@@ -67,6 +69,7 @@ Set bonuses:
 5. Hostile mobs have even further increased health (x2.8 ~ 3), attack damage (x1.75 ~ 2), armor (+6 ~ 12), and movement speed (+10~20%).
 6. When hostile mobs die, their exp dropped is increased based on their health and the killer player's Experience Multiplier attribute.
 7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
+8. When Freezing, cannot jump.
 
 #### Special Mobs:
 ###### Some Hostile mobs will spawn with special effects that will appear in their names with a 5% chance for each effect, such as:
