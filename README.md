@@ -59,6 +59,8 @@ Set bonuses:
 14. Healing Bolts (Crossbow): Arrows damage is reduced dramatically against everyone. Reduced to 0 against friendly units. Arrows do not heal hostiles, but do for friendly. When hit, regenerate health equal to 1.5 * Arrow Damage + 1.5 * Arrow Velocity. Epic.
 15. Powerful Trigger (Crossbow): +10% Arrow Velocity per level, Max 5. Rare.
 16. Photosynthesis (All): Slowly recover durability when standing in sunlight. Epic.
+17. Thorny Bulwark (Shield): 25%/50%/75%/100% Chance to deal damage to attacker when blocking with shield, equal to your 25%/50%/75%/100% Attack Damage. Max 4. Rare.
+18. Shield Bash (Shield): Allows the usage of Shield Bash, left-click while blocking to perform a Shield Bash, damaging the first enemy hit equal to your 25%/50%/75%/100% Attack Damage. Max 4. Epic.
     
 ## 🦾 Attributes:
 1. Experience Multiplier
