@@ -29,15 +29,23 @@ Set bonuses:
 4. Permanent Night Vision underwater. Swim Speed: +25%. Water Tank allows to breathe underwater, based on Respiration. Limit, 32 seconds, start at 8 seconds, and increase by 8 for every level of Respiration. Once bar is depleted, start removing bubbles. Only when out of water, will the bar regenerate, at the same rate. Water Breathing stops the bar from going down.
 
 ### Baubles:
-#### Pendant of Life:
-    +25% Incoming Healing.
-    +10 Max Health.
-    +1 Health every two second.
-#### Pendant of Wealth:
-    +25% Experience Multiplier.
-    +25% Extra Ore Chance.
-    +25% Special Loot Chance.
-    +100% Luck.
+#### Special Necklace Slot Baubles, all based on the special effects that mobs can have.
+#### Charm of Swiftness:
++10% Movement Speed
+#### Charm of Strength:
++2 Attack Damage, +0.5 Arrow Damage, +0.25 Arrow Velocity
+#### Charm of Resilience:
++4 Armor, +4 Max Health, +25% Knockback Resistance
+#### Charm of Retaliation:
++2 Armor, when attacked, deal 25% Armor damage to attacker.
+#### Charm of Venom:
+Attacks apply a Deadly Poison II to targets.
+#### Charm of Weakening:
+Attacks reduce target's Movement Speed, Attack Speed, Attack Damage, and Arrow Damage.
+#### Charm of Vampirism:
++5% Lifesteal, +15% Attack Speed and Offhand Attack Speed.
+#### Charm of Rejuvenation:
++1 Health every second.
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
 2. Evasive Haste: Given when successfully Evading an attack. +15% Movement Speed per level.
