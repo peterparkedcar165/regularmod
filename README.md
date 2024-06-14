@@ -69,7 +69,7 @@ Set bonuses:
 7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
 
 #### Special Mobs:
-###### Some Hostile mobs will spawn with special effects that will appear in their names, such as:
+###### Some Hostile mobs will spawn with special effects that will appear in their names with a 5% chance for each effect, such as:
 ###### Speedy: Increase Movement Speed by 25%.
 ###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 25% of the Armor of the mob.
 ###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds.
