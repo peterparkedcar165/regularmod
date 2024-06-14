@@ -75,7 +75,7 @@ Set bonuses:
 ###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds.
 ###### Sporous: Players in a 4-block radius will suffer a Poison 2 effect for 2 seconds, as long as they are in the range.
 ###### Freezing: Attacks apply a Freezing effect for 8 seconds.
-###### Wintry: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range.
+###### Chilling: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range.
 ###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%.
 ###### Strong: Increase Attack Damage by 1.5x and Arrow Damage by 1.5x.
 ###### Leeching: Increase Lifesteal by 50%.
