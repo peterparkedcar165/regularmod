@@ -5,6 +5,7 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 
 ## ⛏️ Item:
 1. Experience Flask (empty/full): When empty, use to fill 100xp points. When full, use to gain 100xp points. MUST HAVE over 100xp point to fill a bottle up.
+2. Alloy Ingot: Ingot crafted from Diamond, Iron Ingot, Copper Ingot, and Gold Ingot. Used to craft materials for speciality equipments.
 
 ## 👕 Armor / Tools / Weapons / Baubles:
 ### Armor Sets will grant bonus on every piece, and per number of pieces.
