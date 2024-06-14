@@ -23,6 +23,12 @@ Set bonuses:
 3. Crafting Bread no longer requires 3 Wheat to make 3 Bread, instead, 1 Wheat can make 1 Bread. At the same time, double the Bread yield. Sticks yield 6 instead of 4.
 4. Tilling soil instantly moisturizes it. Contain a Water Tank that slowly fills up when you are wet or touching water, then walking on soil moisturizes the soil at the cost of 1 unit, Max 24. Extra Crop Chance: +50%. Saturation Multiplier: +25%.
 
+#### 🏊 Swimmer: Each piece grants 10% Swim Speed.
+
+2. Swim Speed: +25%. Dolphin's Grace effect lasts 1.5x as long.
+3. Underwater's Mining Speed: +100%. Mining Fatigue effect is converted to Haste.
+4. Permanent Night Vision underwater. Swim Speed: +25%. Water Tank allows to breathe underwater, based on Respiration. Limit, 32 seconds, start at 8 seconds, and increase by 8 for every level of Respiration. Once bar is depleted, start removing bubbles. Only when out of water, will the bar regenerate, at the same rate. Water Breathing stops the bar from going down.
+
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
 
