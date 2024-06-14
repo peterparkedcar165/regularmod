@@ -69,7 +69,7 @@ Set bonuses:
 7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
 
 #### Special Mobs:
-###### Some Hostile mobs will spawn with special effects that will appear in their names, such as: Speedy, Thorny, Venomous, Sporous, Freezing, Wintry, Tanky, Strong, Leeching, Vanishing.
+###### Some Hostile mobs will spawn with special effects that will appear in their names, such as:
 ###### Speedy: Increase Movement Speed by 25%.
 ###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 50% of the Attack Damage of the mob.
 ###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds.
@@ -80,3 +80,4 @@ Set bonuses:
 ###### Strong: Increase Attack Damage by 1.5x and Arrow Damage by 1.5x.
 ###### Leeching: Increase Lifesteal by 50%.
 ###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second.
+###### Crippling: Movement Speed and Attack Speed: -25%.
