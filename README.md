@@ -67,4 +67,16 @@ Set bonuses:
 5. Hostile mobs have even further increased health (x2.8 ~ 3), attack damage (x1.75 ~ 2), armor (+6 ~ 12), and movement speed (+10~20%).
 6. When hostile mobs die, their exp dropped is increased based on their health and the killer player's Experience Multiplier attribute.
 7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
-8. Some Hostile mobs will spawn with special effects that will appear in their names, such as: Speedy, Thorny, Venomous, Sporous, Freezing, Wintry, Tanky, Strong, Leeching, Vanishing,
+
+#### Special Mobs:
+###### Some Hostile mobs will spawn with special effects that will appear in their names, such as: Speedy, Thorny, Venomous, Sporous, Freezing, Wintry, Tanky, Strong, Leeching, Vanishing.
+###### Speedy: Increase Movement Speed by 25%.
+###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 50% of the Attack Damage of the mob.
+###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds.
+###### Sporous: Players in a 4-block radius will suffer a Poison 2 effect for 2 seconds, as long as they are in the range.
+###### Freezing: Attacks apply a Freezing effect for 8 seconds.
+###### Wintry: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range.
+###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%.
+###### Strong: Increase Attack Damage by 1.5x and Arrow Damage by 1.5x.
+###### Leeching: Increase Lifesteal by 50%.
+###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second.
