@@ -44,6 +44,8 @@ Attacks apply a Deadly Poison II to targets.
 Attacks reduce target's Movement Speed, Attack Speed, Attack Damage, and Arrow Damage.
 #### Charm of Vampirism:
 +5% Lifesteal, +15% Attack Speed and Offhand Attack Speed.
+#### Charm of Evasion:
++25% Evasion, +25% Stealth.
 #### Charm of Rejuvenation:
 +1 Health every second.
 ## 💭 Status Effects:
