@@ -28,6 +28,16 @@ Set bonuses:
 3. Underwater's Mining Speed: +100%. Mining Fatigue effect is converted to Haste.
 4. Permanent Night Vision underwater. Swim Speed: +25%. Water Tank allows to breathe underwater, based on Respiration. Limit, 32 seconds, start at 8 seconds, and increase by 8 for every level of Respiration. Once bar is depleted, start removing bubbles. Only when out of water, will the bar regenerate, at the same rate. Water Breathing stops the bar from going down.
 
+### Baubles:
+#### Pendant of Life:
+    +25% Incoming Healing.
+    +10 Max Health.
+    +1 Health every two second.
+#### Pendant of Wealth:
+    +25% Experience Multiplier.
+    +25% Extra Ore Chance.
+    +25% Special Loot Chance.
+    +100% Luck.
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
 2. Evasive Haste: Given when successfully Evading an attack. +15% Movement Speed per level.
