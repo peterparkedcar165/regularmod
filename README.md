@@ -30,6 +30,7 @@ Set bonuses:
 
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
+2. Evasive Haste: Given when successfully Evading an attack. +15% Movement Speed per level.
 
 ## 📖 Enchantments:
 1. Quick Reflex (Helmet): +7.5% Evasion per level, Max 5. Common.
