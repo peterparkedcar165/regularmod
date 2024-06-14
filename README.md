@@ -50,7 +50,6 @@ Set bonuses:
 15. Powerful Trigger (Crossbow): +10% Arrow Velocity per level, Max 5. Rare.
 16. Photosynthesis (All): Slowly recover durability when standing in sunlight. Epic.
     
-### Note: Rare enchantments will be Purple, and Epic will be Golden.
 ## 🦾 Attributes:
 1. Experience Multiplier
 2. Extra Ore Chance
