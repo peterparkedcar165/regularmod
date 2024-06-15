@@ -9,7 +9,7 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 
 ## 👕 Armor / Tools / Weapons / Baubles:
 ### Armor Sets will grant bonus on every piece, and per number of pieces.
-#### Marksman:
+#### 🏹 Marksman:
 Helmet: Crit Chance: +10%, Crit Damage: +10%.
 
 Chestplate: Draw Speed: +10%, Arrow Velocity: +5%.
