@@ -9,37 +9,32 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 
 ## 👕 Armor / Tools / Weapons / Baubles:
 ### Armor Sets will grant bonus on every piece, and per number of pieces.
-Set bonuses:
-#### ⛏️ Excavator: Each piece grants 5% Mining Speed with Pickaxes and Shovels.
+#### Marksman:
 
-2. Mining Speed with Pickaxes and Shovels: +15%, Extra Ore Chance: +25%, reduced damage from Stalagmite and Stalagtites. Mining no longer consumes hunger.
-3. Mining Pickaxable blocks has a 25% Chance to grant increasing Haste. Max 4, for 20 seconds.
-4. Permanent Night Vision if not underwater, mining ores grants extra exp based on Experience Multiplier. Does not work with Silk Touch. Extra Ore Chance: +25%
+#### Warrior:
 
-#### 🌿 Agricultor: Each piece grants 5% Mining Speed with Axes and Hoes.
+#### Assassin:
 
-2. Mining Speed with Axes and Hoes: +15%, Extra Crop Chance: +25%. Can rebark trees.
-3. Crafting Bread no longer requires 3 Wheat to make 3 Bread, instead, 1 Wheat can make 1 Bread. At the same time, double the Bread yield. Sticks yield 6 instead of 4.
-4. Tilling soil instantly moisturizes it. Contain a Water Tank that slowly fills up when you are wet or touching water, then walking on soil moisturizes the soil at the cost of 1 unit, Max 24. Extra Crop Chance: +50%. Saturation Multiplier: +25%.
-
-#### 🏊 Swimmer: Each piece grants 10% Swim Speed.
-
-2. Swim Speed: +25%. Dolphin's Grace effect lasts 1.5x as long.
-3. Underwater's Mining Speed: +100%. Mining Fatigue effect is converted to Haste.
-4. Permanent Night Vision underwater. Swim Speed: +25%. Water Tank allows to breathe underwater, based on Respiration. Limit, 32 seconds, start at 8 seconds, and increase by 8 for every level of Respiration. Once bar is depleted, start removing bubbles. Only when out of water, will the bar regenerate, at the same rate. Water Breathing stops the bar from going down.
+#### Guardian:
 
 ### Baubles:
 #### Special Necklace Slot Baubles, all based on the special effects that mobs can have.
-#### Charm of Agility:
-+25% Draw Speed, +10% Movement Speed, +25% Evasion.
-#### Charm of Strength:
-+2 Attack Damage, +0.25 Arrow Damage, +0.3 Arrow Velocity
-#### Charm of Resilience:
-+4 Armor, +4 Max Health, +25% Knockback Resistance
-#### Charm of Rejuvenation:
+#### Charm of Rejuvenation: Uncommon
 +1 Health every second.
-#### Charm of Immunity:
+#### Charm of Immunity: Rare
 Immune to negative status effects.
+#### Charm of Agriculture: (Lesser, Adequate, Greater)
+1. Mining Speed with Axes and Hoes: +15%, Extra Crop Chance: +25%. Can rebark trees.
+2. Crafting Bread no longer requires 3 Wheat to make 3 Bread, instead, 1 Wheat can make 1 Bread. At the same time, double the Bread yield. Sticks yield 6 instead of 4.
+3. Tilling soil instantly moisturizes it. Contain a Water Tank that slowly fills up when you are wet or touching water, then walking on soil moisturizes the soil at the cost of 1 unit, Max 24. Extra Crop Chance: +50%. Saturation Multiplier: +25%.
+#### Charm of Excavation: (Lesser, Adequate, Greater)
+1. Mining Speed with Pickaxes and Shovels: +15%, Extra Ore Chance: +25%, reduced damage from Stalagmite and Stalagtites. Mining no longer consumes hunger.
+2. Mining Pickaxable blocks has a 25% Chance to grant increasing Haste. Max 4, for 20 seconds.
+3. Permanent Night Vision if not underwater, mining ores grants extra exp based on Experience Multiplier. Does not work with Silk Touch. Extra Ore Chance: +25%
+#### Charm of Submergence: (Lesser, Adequate, Greater)
+1. Swim Speed: +25%. Dolphin's Grace effect lasts 1.5x as long.
+2. Underwater's Mining Speed: +100%. Mining Fatigue effect is converted to Haste.
+3. Permanent Night Vision underwater. Swim Speed: +25%. Water Tank allows to breathe underwater, based on Respiration. Limit, 32 seconds, start at 8 seconds, and increase by 8 for every level of Respiration. Once bar is depleted, start removing bubbles. Only when out of water, will the bar regenerate, at the same rate. Water Breathing stops the bar from going down.
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
 2. Evasive Haste: Given when successfully Evading an attack. +15% Movement Speed per level.
@@ -54,7 +49,7 @@ Immune to negative status effects.
 7. Precise Stabs (Melee Weapons): +12.5% Crit Chance per level on main-hand, 7.5% on off-hand, Max 3. Rare.
 8. Dexterity (Bow/Crossbow): +25% Draw Speed per level, Max 3. Rare.
 9. Quick Blows (Melee Weapons): +0.15 Attack Speed per level, Max 3. Rare. (if off-hand, offhand attack speed).
-10. Steady Focus (Bow/Crossbow): Disable the Movement Speed slow when aiming, Max 1. Epic.
+10. Ranger's Reflex (Bow/Crossbow): When evading attacks, shoot an arrow at the attacker, Max 1. Epic.
 11. Hurricane (Bow): Every 2 Arrow hit will spawn another arrow aiming at the target, with the same velocity of the arrow in question, Max 1. Epic.
 12. Explosive Bolts (Crossbow): Arrow hits create a minor explosion dealing Explosion/Fire damage, slightly damaging nearby hostiles. Base Damage scales with level, multiplier scales with level, arrow velocity and damage, Max 3. Epic.
 13. Noxious Bolts (Crossbow): Arrow hits create a splash of poison gas, Poisoning the target and nearby hostiles based on the enchantment's level. Duration: 8 seconds, Level +1 per level. At Level 3, change from Poison to Deadly Poison, affecting mobs that normally are immune to Poison, and the damage is no longer Magic, meaning that Witches don't resist it. Damage dealt will be dealt by the player instead of no one. Epic.
