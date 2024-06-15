@@ -61,7 +61,7 @@ Immune to negative status effects.
 4. Quick Feet (Boots): +5% Movement Speed per level, Max 3. Uncommon.
 5. Clandestine (Leggings): +10% Stealth per level, Max 5. Uncommon.
 6. Precision (Bow/Crossbow): +15% Crit Chance per level, Max 3. Rare.
-7. Precise Stabs (Melee Weapons): +10% Crit Chance per level, Max 3. Rare.
+7. Precise Stabs (Melee Weapons): +12.5% Crit Chance per level on main-hand, 7.5% on off-hand, Max 3. Rare.
 8. Dexterity (Bow/Crossbow): +25% Draw Speed per level, Max 3. Rare.
 9. Quick Blows (Melee Weapons): +0.15 Attack Speed per level, Max 3. Rare. (if off-hand, offhand attack speed).
 10. Steady Focus (Bow/Crossbow): Disable the Movement Speed slow when aiming, Max 1. Epic.
