@@ -30,22 +30,12 @@ Set bonuses:
 
 ### Baubles:
 #### Special Necklace Slot Baubles, all based on the special effects that mobs can have.
-#### Charm of Swiftness:
-+10% Movement Speed
+#### Charm of Agility:
++25% Draw Speed, +10% Movement Speed, +25% Evasion.
 #### Charm of Strength:
-+2 Attack Damage, +0.5 Arrow Damage, +0.25 Arrow Velocity
++2 Attack Damage, +0.25 Arrow Damage, +0.3 Arrow Velocity
 #### Charm of Resilience:
 +4 Armor, +4 Max Health, +25% Knockback Resistance
-#### Charm of Retaliation:
-+2 Armor, when attacked, deal 25% Armor damage to attacker.
-#### Charm of Venom:
-Attacks apply a Deadly Poison II to targets.
-#### Charm of Weakening:
-Attacks reduce target's Movement Speed, Attack Speed, Attack Damage, and Arrow Damage.
-#### Charm of Vampirism:
-+5% Lifesteal, +15% Attack Speed and Offhand Attack Speed.
-#### Charm of Evasion:
-+25% Evasion, +25% Stealth.
 #### Charm of Rejuvenation:
 +1 Health every second.
 #### Charm of Immunity:
