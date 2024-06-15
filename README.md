@@ -22,7 +22,7 @@ Boots: +5% Movement Speed, -50% Movement Speed reduction from drawing with range
 
 3-set bonus: Evasion Haste lasts 4 seconds longer and grants 10% Movement Speed, and 25% Stealth.
 
-4-set bonus: Arrow hits grant Rampant Precision, increasing Crit Chance and Crit Damage by 5% per level, up to 25%.
+4-set bonus: Arrow hits grant Deadeye, increasing Crit Chance and Crit Damage by 5% per level, up to 25%.
 
 #### Warrior:
 
@@ -51,6 +51,7 @@ Immune to negative status effects.
 ## 💭 Status Effects:
 1. Infested: Given to Zombie-type mobs upon spawning with a 10% chance. When they die, they spawn 3-5 extra Zombies.
 2. Evasive Haste: Given when successfully Evading an attack. +15% Movement Speed per level.
+3. Deadeye: +5% Crit Chance and Crit Damage per level, up to 5.
 
 ## 📖 Enchantments:
 1. Quick Reflex (Helmet): +7.5% Evasion per level, Max 5. Common.
