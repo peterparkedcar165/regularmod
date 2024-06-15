@@ -85,6 +85,7 @@ Immune to negative status effects.
 ## ❓ Game Mechanics:
 ### Quality of life:
 1. Falling onto soil no longer destroys it.
+2. Hostile mobs now drop Experience orbs when dying regardless if they were attacked by a player or not.
 ### Difficulty:
 1. Whenever Mobs spawn, they will be divided into two subcategories: Friendly, or Hostile.
 2. Friendly mobs are mobs that have no purpose when killed, and may have a major purpose to players, most being tamable, and some not being tamable. Ex: horses, wolves, dolphins, etc.
