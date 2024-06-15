@@ -10,6 +10,19 @@ This mod aims to add a few things to Minecraft, with the usage of Origins, but w
 ## 👕 Armor / Tools / Weapons / Baubles:
 ### Armor Sets will grant bonus on every piece, and per number of pieces.
 #### Marksman:
+Helmet: Crit Chance: +10%, Crit Damage: +10%.
+
+Chestplate: Draw Speed: +10%, Arrow Velocity: +5%.
+
+Leggings: Evasion: +10%, Stealth: +10%.
+
+Boots: +5% Movement Speed, -50% Movement Speed reduction from drawing with ranged weapons.
+
+2-set bonus: +15% Draw Speed, +5% Arrow Velocity.
+
+3-set bonus: +15% Evasion. Evading an attack grants 10% Movement Speed, and 25% Stealth.
+
+4-set bonus: Arrow hits have a (50% with bow, 25% with crossbow) chance to recover an Arrow / Spectral Arrow.
 
 #### Warrior:
 
