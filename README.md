@@ -93,6 +93,7 @@ Immune to negative status effects.
 5. Hostile mobs have even further increased health (x2.8 ~ 3), attack damage (x1.75 ~ 2), armor (+6 ~ 12), and movement speed (+10~20%).
 6. When hostile mobs die, their exp dropped is increased based on their health and the killer player's Experience Multiplier attribute.
 7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
+8. Player's base Critical Damage is originally 150%. Lowered to 115%.
 
 #### Special Mobs:
 ###### Some Hostile mobs will spawn with special effects that will appear in their names with a 5% chance for each effect, such as:
