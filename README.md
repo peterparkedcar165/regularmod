@@ -16,7 +16,7 @@ Chestplate: Draw Speed: +25%, Arrow Velocity: +10%.
 
 Leggings: Evasion: +25%, Stealth: +10%.
 
-Boots: +5% Movement Speed, -50% Movement Speed reduction from drawing with ranged weapons.
+Boots: +10% Movement Speed, -50% Movement Speed reduction from drawing with ranged weapons.
 
 2-set bonus: Arrow hits have a (50% with bow, 25% with crossbow) chance to recover an Arrow / Spectral Arrow.
 
