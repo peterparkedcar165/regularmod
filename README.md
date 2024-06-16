@@ -58,7 +58,7 @@ Chestplate: +3 Armor, +0.5 Health per second
 
 Leggings: +3 Armor, +0.5 Health per second
 
-Boots: +3 Armor, +0.35 Knockback Resistance.
+Boots: +3 Armor, -50% Movement Speed penalty when blocking.
 
 2-set bonus: Increase Attack Damage based on Armor.
 
