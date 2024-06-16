@@ -22,14 +22,49 @@ Boots: +10% Movement Speed, -50% Movement Speed reduction from drawing with rang
 
 3-set bonus: Evasion Haste lasts 4 seconds longer and grants 10% Movement Speed, and 25% Stealth.
 
-4-set bonus: Arrow hits grant Deadeye, increasing Crit Chance and Crit Damage by 5% per level, up to 25%.
+4-set bonus: Arrow hits grant Deadeye, increasing Arrow Velocity, Crit Chance and Crit Damage by 5% per level, up to 25%.
+#### ⚔ Warrior:
+Helmet: Lifesteal: +2.5%, Armor Shredding: +10%.
 
-#### Warrior:
+Chestplate: Lifesteal: +2.5%, Attack Damage: +3.
 
-#### Assassin:
+Leggings: Lifesteal: +2.5%, Evasion Haste grants 3 Attack Damage.
 
-#### Guardian:
+Boots: Lifesteal: +2.5%, Movement Speed: +10%.
 
+2-set bonus: Increase Attack Damage based on Missing Health. When killing a Hostile, regenerate health equal to 10% of their Max Health.
+
+3-set bonus: Attacking hostiles grants Rage that diminishes after 8 seconds of not being in combat, increasing Rage grants increasing Attack Damage and Crit Chance.
+
+4-set bonus: Maximum Rage bar acts as an Undying Totem.
+#### 🗡️ Assassin:
+Helmet: +10% Crit Chance and Crit Damage.
+
+Chestplate: +35% Attack Speed & +35% Off-hand Attack Speed.
+
+Leggings: +35% Evasion, +25% Stealth.
+
+Boots: +10% Movement Speed. Grants Double Jump?
+
+2-set bonus: Increase Evasion based on Bonus Movement Speed, and Crit Chance based on Bonus Attack Speed.
+
+3-set bonus: Evasive Haste grants increased Attack Speed and Movement Speed. When dodging melee attacks, the attacker is struck twice with stabs dealing 60% Attack Damage each strike.
+
+4-set bonus: Melee attacks grants a 10-time stackable 10% Attack Speed boost.
+#### 🛡️ Guardian:
+Helmet: +3 Armor, +0.25 Armor Toughness
+
+Chestplate: +3 Armor, +0.5 Health per second
+
+Leggings: +3 Armor, +0.5 Health per second
+
+Boots: +3 Armor, +0.35 Knockback Resistance.
+
+2-set bonus: Increase Attack Damage based on Armor.
+
+3-set bonus: Upon attacking, heal 1 health to nearby allies including you, with a 0.1 seconds cooldown.
+
+4-set bonus: Aura that increases nearby allies' armor by 4. When somebody in the same as you drops below 25% health, Guardian Angel heals all players in the same world.
 ### Baubles:
 #### Special Necklace Slot Baubles, all based on the special effects that mobs can have.
 #### Charm of Rejuvenation: Uncommon
