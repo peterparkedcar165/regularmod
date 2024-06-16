@@ -58,9 +58,9 @@ Chestplate: +3 Armor, +0.5 Health per second
 
 Leggings: +3 Armor, +0.5 Health per second
 
-Boots: +3 Armor, -50% Movement Speed penalty when blocking.
+Boots: +3 Armor, +10% Movement Speed.
 
-2-set bonus: Increase Attack Damage based on Armor.
+2-set bonus: Increase Attack Damage based on Armor. -50% Movement Speed penalty when blocking with shields.
 
 3-set bonus: Upon attacking, heal 1 health to nearby allies including you, with a 0.1 seconds cooldown.
 
