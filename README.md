@@ -44,7 +44,7 @@ Chestplate: +35% Attack Speed & +35% Off-hand Attack Speed.
 
 Leggings: +35% Evasion, +25% Stealth.
 
-Boots: +10% Movement Speed. Grants Double Jump?
+Boots: +10% Movement Speed. +0.6 Step Height
 
 2-set bonus: Increase Evasion based on Bonus Movement Speed, and Crit Chance based on Bonus Attack Speed.
 
