@@ -52,7 +52,7 @@ Boots: +10% Movement Speed. +0.6 Step Height
 
 4-set bonus: Melee attacks grants a 10-time stackable 10% Attack Speed boost.
 #### 🛡️ Guardian:
-Helmet: +3 Armor, +0.25 Armor Toughness
+Helmet: +3 Armor, +0.25 Knockback Resistance
 
 Chestplate: +3 Armor, +0.5 Health per second
 
