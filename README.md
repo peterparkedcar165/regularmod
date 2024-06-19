@@ -18,7 +18,7 @@ Leggings: Evasion: +25%, Stealth: +10%.
 
 Boots: +10% Movement Speed, -50% Movement Speed reduction from drawing with ranged weapons.
 
-2-set bonus: Arrow hits have a (50% with bow, 25% with crossbow) chance to recover an Arrow / Spectral Arrow.
+2-set bonus: +15% Armor Shred & 5% Lifesteal with Bows and Crossbows.
 
 3-set bonus: Evasion Haste lasts 4 seconds longer and grants 10% Movement Speed, and 25% Stealth.
 
@@ -52,19 +52,19 @@ Boots: +10% Movement Speed. +0.6 Step Height
 
 4-set bonus: Melee attacks grants a 10-time stackable 10% Attack Speed boost.
 #### 🛡️ Guardian:
-Helmet: +3 Armor, +0.25 Knockback Resistance
+Helmet: +4 Armor, +0.25 Knockback Resistance
 
-Chestplate: +3 Armor, +0.5 Health per second
+Chestplate: +4 Armor, +0.5 Health per second
 
-Leggings: +3 Armor, +0.5 Health per second
+Leggings: +4 Armor, +0.5 Health per second
 
-Boots: +3 Armor, +10% Movement Speed.
+Boots: +4 Armor, +10% Movement Speed.
 
 2-set bonus: Increase Attack Damage based on Armor. -50% Movement Speed penalty when blocking with shields.
 
 3-set bonus: Upon attacking, heal 1 health to nearby allies including you, with a 0.1 seconds cooldown.
 
-4-set bonus: Aura that increases nearby allies' armor by 4. When somebody in the same as you drops below 25% health, Guardian Angel heals all players in the same world.
+4-set bonus: Global Aura that grants all players in the same dimension +6 Armor. When the player's health is under 50%, increase the Armor bonus to +12 instead.
 ### Baubles:
 #### Special Necklace Slot Baubles, all based on the special effects that mobs can have.
 #### Charm of Rejuvenation: Uncommon
