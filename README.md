@@ -64,13 +64,15 @@ Boots: +4 Armor, +10% Movement Speed.
 
 3-set bonus: Upon attacking, heal 1 health to nearby allies including you, with a 0.1 seconds cooldown.
 
-4-set bonus: Global Aura that grants all players in the same dimension +6 Armor. When the player's health is under 50%, increase the Armor bonus to +12 instead.
+4-set bonus: Global Aura that grants all players in the same dimension +6 Armor and 25% Incoming Healing. When the player's health is under 50%, increase the Armor bonus to +12 and Incoming Healing by 50% instead.
 ### Baubles:
 #### Special Necklace Slot Baubles, all based on the special effects that mobs can have.
-#### Charm of Rejuvenation: Uncommon
+#### Ring of Rejuvenation: Uncommon
 +1 Health every second.
-#### Charm of Immunity: Rare
+#### Ring of Immunity: Rare
 Immune to negative status effects.
+#### Ring of Gluttony: (Uncommon)
++25% Saturation Multiplier, can eat even if hunger is full, but restores 1.5x extra saturation.
 #### Charm of Agriculture: (Lesser, Adequate, Greater)
 1. Mining Speed with Axes and Hoes: +15%, Extra Crop Chance: +25%. Can rebark trees.
 2. Crafting Bread no longer requires 3 Wheat to make 3 Bread, instead, 1 Wheat can make 1 Bread. At the same time, double the Bread yield. Sticks yield 6 instead of 4.
