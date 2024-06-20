@@ -54,9 +54,9 @@ Boots: +10% Movement Speed. +0.6 Step Height
 #### 🛡️ Guardian:
 Helmet: +4 Armor, +0.25 Knockback Resistance
 
-Chestplate: +4 Armor, +0.5 Health per second
+Chestplate: +4 Armor, +0.25 Health per second
 
-Leggings: +4 Armor, +0.5 Health per second
+Leggings: +4 Armor, +0.25 Health per second
 
 Boots: +4 Armor, +10% Movement Speed.
 
