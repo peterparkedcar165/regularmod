@@ -137,7 +137,7 @@ Immune to negative status effects.
 ###### Speedy: Increase Movement Speed by 25%.
 ###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 25% of the Armor of the mob.
 ###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds.
-###### Sporous: Players in a 4-block radius will suffer a Poison 2 effect for 2 seconds, as long as they are in the range.
+###### Sporous: Players in a 4-block radius will suffer a Poison 1 and Blindness effect for 2 seconds, as long as they are in the range.
 ###### Freezing: Attacks apply a Freezing effect for 8 seconds.
 ###### Chilling: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range.
 ###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%.
