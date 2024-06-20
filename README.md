@@ -108,7 +108,6 @@ Immune to negative status effects.
 15. Powerful Trigger (Crossbow): +10% Arrow Velocity per level, Max 5. Rare.
 16. Photosynthesis (All): Slowly recover durability when standing in sunlight. Epic.
 17. Thorny Bulwark (Shield): 25%/50%/75%/100% Chance to deal damage to attacker when blocking with shield, equal to your 25%/50%/75%/100% Attack Damage. Max 4. Rare.
-18. Shield Bash (Shield): Allows the usage of Shield Bash, left-click while blocking to perform a Shield Bash, damaging the first enemy hit equal to your 25%/50%/75%/100% Attack Damage. Max 4. Epic.
     
 ## 🦾 Attributes:
 1. Experience Multiplier
@@ -141,7 +140,7 @@ Immune to negative status effects.
 ###### Freezing: Attacks apply a Freezing effect for 8 seconds.
 ###### Chilling: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range.
 ###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%.
-###### Strong: Increase Attack Damage by 1.75x and Arrow Damage by 1.75x.
+###### Strong: Increase Attack Damage by 2x and Arrow Damage by 2x.
 ###### Leeching: Increase Lifesteal by 50%.
 ###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second.
 ###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%.
