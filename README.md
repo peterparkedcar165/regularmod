@@ -110,39 +110,39 @@ Immune to negative status effects.
 17. Thorny Bulwark (Shield): 25%/50%/75%/100% Chance to deal damage to attacker when blocking with shield, equal to your 25%/50%/75%/100% Attack Damage. Max 4. Rare.
     
 ## 🦾 Attributes:
-1. Experience Multiplier
-2. Extra Ore Chance
-3. Special Loot Chance
-4. Saturation Multiplier
-5. Evasion
-6. Stealth
+1. Experience Multiplier [DONE]
+2. Extra Ore Chance [DONE]
+3. Special Loot Chance [DONE]
+4. Saturation Multiplier [DONE]
+5. Evasion [DONE]
+6. Stealth [DONE]
    
 ## ❓ Game Mechanics:
-### Quality of life:
-1. Falling onto soil no longer destroys it.
-2. Hostile mobs now drop Experience orbs when dying regardless if they were attacked by a player or not.
-### Difficulty:
-1. Whenever Mobs spawn, they will be divided into two subcategories: Friendly, or Hostile.
-2. Friendly mobs are mobs that have no purpose when killed, and may have a major purpose to players, most being tamable, and some not being tamable. Ex: horses, wolves, dolphins, etc.
-3. Hostile mobs are the rest, mobs that are either hostile, neutral, or offer something important upon killing them. Ex: farm animals, zombies, creepers, skeletons, etc.
-4. All mobs will spawn with increased health (x1.5).
-5. Hostile mobs have even further increased health (x2.8 ~ 3), attack damage (x1.75 ~ 2), armor (+6 ~ 12), and movement speed (+10~20%).
-6. When hostile mobs die, their exp dropped is increased based on their health and the killer player's Experience Multiplier attribute.
-7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed.
-8. Player's base Critical Damage is originally 150%. Lowered to 115%.
+### Quality of life: [DONE]
+1. Falling onto soil no longer destroys it. [DONE]
+2. Hostile mobs now drop Experience orbs when dying regardless if they were attacked by a player or not. [DONE]
+### Difficulty: [DONE]
+1. Whenever Mobs spawn, they will be divided into two subcategories: Friendly, or Hostile. [DONE]
+2. Friendly mobs are mobs that have no purpose when killed, and may have a major purpose to players, most being tamable, and some not being tamable. Ex: horses, wolves, dolphins, etc. [DONE]
+3. Hostile mobs are the rest, mobs that are either hostile, neutral, or offer something important upon killing them. Ex: farm animals, zombies, creepers, skeletons, etc. [DONE]
+4. All mobs will spawn with increased health (x1.5). [DONE]
+5. Hostile mobs have even further increased health (x2.8 ~ 3), attack damage (x1.75 ~ 2), armor (+6 ~ 12), and movement speed (+10~20%). [DONE]
+6. When hostile mobs die, their exp dropped is increased based on their health. [DONE]
+7. Some Zombie-type mobs may spawn as "Infested", spawning further of the same type when they are killed. [DONE]
+8. Player's base Critical Damage is originally 150%. Lowered to 115%. [DONE]
 
-#### Special Mobs:
-###### Some Hostile mobs will spawn with special effects that will appear in their names with a 5% chance for each effect, such as:
-###### Speedy: Increase Movement Speed by 25%.
-###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 25% of the Armor of the mob.
-###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds.
-###### Sporous: Players in a 4-block radius will suffer a Poison 1 and Blindness effect for 2 seconds, as long as they are in the range.
-###### Freezing: Attacks apply a Freezing effect for 8 seconds.
-###### Chilling: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range.
-###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%.
-###### Strong: Increase Attack Damage by 2x and Arrow Damage by 2x.
-###### Leeching: Increase Lifesteal by 50%.
-###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second.
-###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%.
+#### Special Mobs: [DONE]
+###### Some Hostile mobs will spawn with special effects that will appear in their names with a 5% chance for each effect, such as: [DONE]
+###### Speedy: Increase Movement Speed by 25%. [DONE]
+###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 25% of the Armor of the mob. [DONE]
+###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds. [DONE]
+###### Sporous: Players in a 4-block radius will suffer a Poison 1 and Blindness effect for 2 seconds, as long as they are in the range. [DONE]
+###### Freezing: Attacks apply a Freezing effect for 8 seconds. [DONE]
+###### Chilling: Players in a 4-block radius will suffer a Freezing effect for 2 seconds, as long as they are in the range. [DONE]
+###### Tanky: Increase Armor by 12. Max Health by 100%. Knockback Resistance by 50%. [DONE]
+###### Strong: Increase Attack Damage by 2x and Arrow Damage by 2x. [DONE]
+###### Leeching: Increase Lifesteal by 50%. [DONE]
+###### Vanishing: Every 3 seconds, grant Speed 4 and Invisibility for 1 second. [DONE]
+###### Crippling: Attacks reduced Movement Speed and Attack Speed by 25%. [DONE]
 
-###### Upon dying, these mobs drop an increased amount of Experience.
+###### Upon dying, these mobs drop an increased amount of Experience. [DONE]
