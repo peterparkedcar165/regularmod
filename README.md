@@ -104,10 +104,9 @@ Immune to negative status effects.
 11. Hurricane (Bow): Every 2 Arrow hit will spawn another arrow aiming at the target, with the same velocity of the arrow in question, Max 1. Epic.
 12. Explosive Bolts (Crossbow): Arrow hits create a minor explosion dealing Explosion/Fire damage, slightly damaging nearby hostiles. Base Damage scales with level, multiplier scales with level, arrow velocity and damage, Max 3. Epic.
 13. Noxious Bolts (Crossbow): Arrow hits create a splash of poison gas, Poisoning the target and nearby hostiles based on the enchantment's level. Duration: 8 seconds, Level +1 per level. At Level 3, change from Poison to Deadly Poison, affecting mobs that normally are immune to Poison, and the damage is no longer Magic, meaning that Witches don't resist it. Damage dealt will be dealt by the player instead of no one. Epic.
-14. Healing Bolts (Crossbow): Arrows damage is reduced dramatically against everyone. Reduced to 0 against friendly units. Arrows do not heal hostiles, but do for friendly. When hit, regenerate health equal to 1.5 * Arrow Damage + 1.5 * Arrow Velocity. Epic.
+14. Thorny Bulwark (Shield): 25%/50%/75%/100% Chance to deal damage to attacker when blocking with shield, equal to your 25%/50%/75%/100% Attack Damage. Max 4. Rare.
 15. Powerful Trigger (Crossbow): +10% Arrow Velocity per level, Max 5. Rare.
 16. Photosynthesis (All): Slowly recover durability when standing in sunlight. Epic.
-17. Thorny Bulwark (Shield): 25%/50%/75%/100% Chance to deal damage to attacker when blocking with shield, equal to your 25%/50%/75%/100% Attack Damage. Max 4. Rare.
     
 ## 🦾 Attributes:
 1. Experience Multiplier [DONE]
