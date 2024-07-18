@@ -132,7 +132,7 @@ Immune to negative status effects.
 
 #### Special Mobs: [DONE]
 ###### Some Hostile mobs will spawn with special effects that will appear in their names with a 5% chance for each effect, such as: [DONE]
-###### Speedy: Increase Movement Speed by 25%. [DONE]
+###### Speedy: Increase Movement Speed by 50%. [DONE]
 ###### Thorny: Increase Armor by 8. Attackers have 50% chance to receive damage based on 25% of the Armor of the mob. [DONE]
 ###### Venomous: Attacks apply a Deadly Poison II effect for 8 seconds. [DONE]
 ###### Sporous: Players in a 4-block radius will suffer a Poison 1 and Blindness effect for 2 seconds, as long as they are in the range. [DONE]
