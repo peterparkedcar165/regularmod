@@ -107,6 +107,9 @@ Immune to negative status effects.
 14. Thorny Bulwark (Shield): 25%/50%/75%/100% Chance to deal damage to attacker when blocking with shield, equal to your 25%/50%/75%/100% Attack Damage. Max 4. Rare.
 15. Powerful Trigger (Crossbow): +10% Arrow Velocity per level, Max 5. Rare.
 16. Photosynthesis (All): Slowly recover durability when standing in sunlight. Epic.
+17. Ice Affinity (All Weapons): [MELEE]: Upon damaging, deals an additional instance of damage, scaling on Attack Damage. Freezes for 40 seconds, hits increase Freeze counter by 20 ticks. [RANGED]: Upon hitting with an arrow, shoot an additional ice flake, same effect on hit. Base damage: 3, multiplied with Arrow Projectile and Damage.
+18. Fire Affinity (All Weapons): Burn, each hit increases burn tick by 20 ticks. Deal an extra instance of fire damage.
+19. Magic Affinity (All Weapons): Each hits decrease Armor by 5% per hit, up to 20%. Deal an extra instance of magic damage.
     
 ## 🦾 Attributes:
 1. Experience Multiplier [DONE]
